@@ -34,7 +34,8 @@
   .introducao-bg {
     background: var(--cor-11);
     padding-top: 40px;
-    box-shadow: inset 0 -60px var(--cor-0);
+    box-shadow: none;
+    /*box-shadow: inset 0 -60px var(--cor-0);*/
   }
 
   .introducao {
@@ -51,6 +52,7 @@
   }
 
   .introducao img {
+    display:none;
     height: 300px;
     width: 100%;
   }
