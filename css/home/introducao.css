@@ -44,7 +44,9 @@
   }
 
   .introducao-conteudo {
+    grid-template-columns: 1fr;
     padding-bottom: 0px;
+    justify-content: center;
   }
 
   .introducao h1 {
