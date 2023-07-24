@@ -54,6 +54,10 @@
     .depoimento-conteudo {
         padding: 40px 20px;
         justify-self: center;
+        background: none;
+    }
+    .depoimento p::before, .depoimento p::after {
+        display: none;
     }
 }
 
