@@ -46,7 +46,8 @@
   .introducao-conteudo {
     grid-template-columns: 1fr;
     padding-bottom: 0px;
-    justify-content: center;
+    padding: 40px;
+    align-self: center;
   }
 
   .introducao h1 {
